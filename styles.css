@@ -252,7 +252,7 @@ footer {
 
 @media (max-width: 668px) {
   #home {
-  background-image: url("/lud_pics/image10.jpeg");
+  background-image: url("lud_pics/image10.jpeg");
   }
 
   #biografia img {
