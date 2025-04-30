@@ -213,7 +213,11 @@
  label, input, textarea {
   display: block;
   margin: 20px auto;
-  width: 200px;
+  width: 320px;
+ }
+
+ textarea {
+  height: 5rem;
  }
 
  label {
